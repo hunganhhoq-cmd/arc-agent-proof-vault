@@ -1,0 +1,8 @@
+{
+  "chainId": 5042002,
+  "rpc": "https://rpc.testnet.arc.network",
+  "contract": "ArcAgentProofVault",
+  "address": "0x6C7E45Ea2f930ffdbcBCD84E290e22932E4B1088",
+  "txHash": "0x01f9b7635f0001021616d70fb19f4bcdedc055d55d8ac7b2b40a1fe5d4e3405b",
+  "deployer": "0xF226712E3Bb91156E985eb995E1ae524Ca8896EC"
+}
